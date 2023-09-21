@@ -1,0 +1,1 @@
+const sebuw = 10;
